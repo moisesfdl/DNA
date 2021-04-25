@@ -16,7 +16,7 @@ int DNA;
 bool
 vetor1 x||y[1]{ M||P homozigotos}
 ||
-vetor2 x&y[0,5]{m&&p heterozigoto} 
+vetor2 x&y[0,5]{m&p heterozigoto} 
 
 alelo{
 p homozigoto() 
