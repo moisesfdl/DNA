@@ -9,7 +9,7 @@ transmissao do alelo
 IP=(locus[]cumulativo)
 IP=(x/y)||IP=(m*p/m*f)
 
-{"%lf" 
+
 char DNA[]{"%lf"Hex"%d"+||-};
 int DNA;
 &x*p||!x*m
