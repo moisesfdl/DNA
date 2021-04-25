@@ -3,6 +3,8 @@ INDICE PATERNIDADE
 estou estudando calculo
 "falta continuar"
 
+P == (W homem)
+M ==  (mulher)
 transmissao do alelo
 IP=(locus[]cumulativo)
 IP=(x/y)||IP=(m*p/m*f)
@@ -28,3 +30,9 @@ Exemplo
 ICP calculado anteriormente 
 (7776):comprovaçao ate 100%
 W = (PP) . (ICP) / [(PP) . (ICP) + (1 - PP)] || (0,5) . (7776) / [(0,5) . (7776) + (1 - 0,5)] = 0,99987 ou 99,987%.
+
+ICP=(ProbabilidadeCumulativaPositivaPaternidade[[M])
+Exemplo 
+ICP calculado anteriormente 
+(7776):comprovaçao ate 100%
+M = (PP) . (ICP) / [(PP) . (ICP) + (1 - PP)] || (0,5) . (7776) / [(0,5) . (7776) + (1 - 0,5)] = 0,99987 ou 99,987%.
